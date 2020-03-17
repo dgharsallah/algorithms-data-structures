@@ -6,6 +6,6 @@ Implementations under [data structures/](https://github.com/dgharsallah/algorith
 Implementations under [algorithms/](https://github.com/dgharsallah/algorithms-data-structures/tree/master/algorithms)
 ## Backlog
 - [x] Stack
-- [ ] Queue
+- [X] Queue
 - [ ] Linked List
 - [ ] Hash Table
