@@ -7,5 +7,6 @@ Implementations under [algorithms/](https://github.com/dgharsallah/algorithms-da
 ## Backlog
 - [x] Stack
 - [X] Queue
+- [X] BST
 - [ ] Linked List
 - [ ] Hash Table
