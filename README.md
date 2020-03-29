@@ -9,5 +9,6 @@ Implementations under [algorithms/](https://github.com/dgharsallah/algorithms-da
 - [X] Queue
 - [X] BST
 - [X] Linked List
+- [ ] Vector
 - [ ] Hash Table
 - [ ] Heap
